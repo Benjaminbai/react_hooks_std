@@ -46,3 +46,5 @@ export function useState(initVal) {
     return [value, setter]
 }
 ```
+
+[hooks study resources](https://zhuanlan.zhihu.com/p/51356920)
